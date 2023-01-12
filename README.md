@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-<img src="./assets/ipcon.png" alt="ipcon">
+<img src="https://user-images.githubusercontent.com/91981716/212126091-12b1861e-092f-44ae-845a-ee9fc120bca8.png" alt="ipcon">
 <br>
 <h3 align="center">Converts IP addresses to decimal and octal formats which helps in bypassing the black-lists and regex checks</h3>
 
